@@ -62,6 +62,11 @@ Mode setting in STM32 FMC
 + Data bus : 16-bit
 + Internal bank : 4
 
+# Memory Mapping of FMC and FSMC
+<img width="1173" height="581" alt="image" src="https://github.com/user-attachments/assets/5f079cda-96c0-458e-99f1-756bad4039c3" />
+
+
+# Config FMC on STM32F429IGTx
 <img width="927" height="553" alt="image" src="https://github.com/user-attachments/assets/6e920ac7-af08-49cc-859a-ab81e7d1ec81" />
 
 
